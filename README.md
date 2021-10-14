@@ -10,7 +10,7 @@ The aim of the package is to perform all of these calculations in one run and ba
 
 ## Build
 
-This package requires **Python 3.6** or higher. It runs in the "xxx_segments" conda environment which can be installed according to the `xxx_segments.yml` file. (It is worth to note that sk-learn has been fixed to version 0.21.2 because of a pickled clustering model that was developed with this version.)
+This package requires **Python 3.6** or higher. It runs in the "xxx_segments" conda environment which can be installed according to the `env.yml` file. (It is worth to note that sk-learn has been fixed to version 0.21.2 because of a pickled clustering model that was developed with this version.)
 
 ## Run
 
@@ -93,4 +93,4 @@ This CSV has the following columns:
 | ...        | ...        | ... | ... | ... | ...         | ...     |...            |...                  |...                  |
 
 
-[THE REST OF THIS README IS NOT DISCLOSED]# customer_segmentation_package
+[THE REST OF THIS README IS NOT DISCLOSED]
